@@ -1,8 +1,14 @@
 你好,这是我在git上上传的第一份文档
 aaa
 <<<<<<< HEAD
+<<<<<<< HEAD
 bbb
 ccc
+=======
+
+asdadfafaf
+>>>>>>> wuhayong_x
+>>>>>>> 3765ad4c0bcd61f401f97e9301339e22bbde2dc2
 =======
 
 asdadfafaf
